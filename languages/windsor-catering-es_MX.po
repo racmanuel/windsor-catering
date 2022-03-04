@@ -1,0 +1,162 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Windsor - Catering\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-04 16:17+0000\n"
+"PO-Revision-Date: 2022-03-04 10:43-0600\n"
+"Last-Translator: \n"
+"Language-Team: Español de México\n"
+"Language: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Loco-Version: 2.5.8; wp-5.9.1\n"
+"X-Domain: windsor-catering\n"
+
+#: windsor-catering.php:63 windsor-catering.php:73
+msgid "Catering"
+msgstr "Catering"
+
+#: windsor-catering.php:86
+msgid "Gravity Form"
+msgstr "Gravity Form"
+
+#: windsor-catering.php:75
+msgid "Guardar"
+msgstr "Guardar"
+
+#. Author URI of the plugin
+msgid "https://github.com/racmanuel"
+msgstr "https://github.com/racmanuel"
+
+#: windsor-catering.php:92
+msgid "ID del Formulario"
+msgstr "ID del Formulario"
+
+#: windsor-catering.php:93
+msgid "Inserta el ID del formulario de Gravity Forms."
+msgstr "Inserta el ID del formulario de Gravity Forms."
+
+#: windsor-catering.php:87
+msgid "Inserta el ID del formulario para mostrar ."
+msgstr "Inserta el ID del formulario para mostrar ."
+
+#: windsor-catering.php:209
+msgid "Inserta la opcion 1 de comida para el dia jueves."
+msgstr "Inserta la opcion 1 de comida para el dia jueves."
+
+#: windsor-catering.php:116
+msgid "Inserta la opcion 1 de comida para el dia lunes."
+msgstr "Inserta la opcion 1 de comida para el dia lunes."
+
+#: windsor-catering.php:147
+msgid "Inserta la opcion 1 de comida para el dia martes."
+msgstr "Inserta la opcion 1 de comida para el dia martes."
+
+#: windsor-catering.php:178
+msgid "Inserta la opcion 1 de comida para el dia miercoles."
+msgstr "Inserta la opcion 1 de comida para el dia miercoles."
+
+#: windsor-catering.php:238
+msgid "Inserta la opcion 1 de comida para el dia viernes."
+msgstr "Inserta la opcion 1 de comida para el dia viernes."
+
+#: windsor-catering.php:216
+msgid "Inserta la opcion 2 de comida para el dia jueves."
+msgstr "Inserta la opcion 2 de comida para el dia jueves."
+
+#: windsor-catering.php:123
+msgid "Inserta la opcion 2 de comida para el dia lunes."
+msgstr "Inserta la opcion 2 de comida para el dia lunes."
+
+#: windsor-catering.php:154
+msgid "Inserta la opcion 2 de comida para el dia martes."
+msgstr "Inserta la opcion 2 de comida para el dia martes."
+
+#: windsor-catering.php:185
+msgid "Inserta la opcion 2 de comida para el dia miercoles."
+msgstr "Inserta la opcion 2 de comida para el dia miercoles."
+
+#: windsor-catering.php:245
+msgid "Inserta la opcion 2 de comida para el dia viernes."
+msgstr "Inserta la opcion 2 de comida para el dia viernes."
+
+#: windsor-catering.php:223
+msgid "Inserta la opcion 3 de comida para el dia jueves."
+msgstr "Inserta la opcion 3 de comida para el dia jueves."
+
+#: windsor-catering.php:130
+msgid "Inserta la opcion 3 de comida para el dia lunes."
+msgstr "Inserta la opcion 3 de comida para el dia lunes."
+
+#: windsor-catering.php:161
+msgid "Inserta la opcion 3 de comida para el dia martes."
+msgstr "Inserta la opcion 3 de comida para el dia martes."
+
+#: windsor-catering.php:192
+msgid "Inserta la opcion 3 de comida para el dia miercoles."
+msgstr "Inserta la opcion 3 de comida para el dia miercoles."
+
+#: windsor-catering.php:252
+msgid "Inserta la opcion 3 de comida para el dia viernes."
+msgstr "Inserta la opcion 3 de comida para el dia viernes."
+
+#: windsor-catering.php:110 windsor-catering.php:141 windsor-catering.php:172
+#: windsor-catering.php:203 windsor-catering.php:232
+msgid "Insertar las opciones de comida para los empleados."
+msgstr "Insertar las opciones de comida para los empleados."
+
+#: windsor-catering.php:202
+msgid "Jueves"
+msgstr "Jueves"
+
+#: windsor-catering.php:109
+msgid "Lunes"
+msgstr "Lunes"
+
+#. Author of the plugin
+msgid "Manuel Ramirez Coronel"
+msgstr "Manuel Ramirez Coronel"
+
+#: windsor-catering.php:140
+msgid "Martes"
+msgstr "Martes"
+
+#: windsor-catering.php:171
+msgid "Miercoles"
+msgstr "Miercoles"
+
+#: windsor-catering.php:115 windsor-catering.php:146 windsor-catering.php:177
+#: windsor-catering.php:208 windsor-catering.php:237
+msgid "Opcion 1"
+msgstr "Opcion 1"
+
+#: windsor-catering.php:122 windsor-catering.php:153 windsor-catering.php:184
+#: windsor-catering.php:215 windsor-catering.php:244
+msgid "Opcion 2"
+msgstr "Opcion 2"
+
+#: windsor-catering.php:129 windsor-catering.php:160 windsor-catering.php:191
+#: windsor-catering.php:222 windsor-catering.php:251
+msgid "Opcion 3"
+msgstr "Opcion 3"
+
+#. Description of the plugin
+msgid ""
+"Plugin para añadir una seccion de opciones en el panel de WordPress, para "
+"insertar las opciones de menu semanal y despues ser previsualizadas en "
+"diferentes campos Dropdown en plugin Gravity Forms."
+msgstr ""
+"Plugin para añadir una seccion de opciones en el panel de WordPress, para "
+"insertar las opciones de menu semanal y despues ser previsualizadas en "
+"diferentes campos Dropdown en plugin Gravity Forms."
+
+#: windsor-catering.php:231
+msgid "Viernes"
+msgstr "Viernes"
+
+#. Name of the plugin
+msgid "Windsor - Catering"
+msgstr "Windsor - Catering"
