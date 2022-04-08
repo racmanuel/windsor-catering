@@ -271,8 +271,14 @@ class Windsor_Catering
                 $choices = array();
                 $options = array('windsor_catering_' . $day . '_1', 'windsor_catering_' . $day . '_2', 'windsor_catering_' . $day . '_3');
                 foreach ($options as $option) {
-                    /** Save in the Array $choices the value of the option to print in Gravity Forms Field - Dropdown */
-                    $choices[] = array('text' => $windsor_catering_options[$option], 'value' => $windsor_catering_options[$option]);
+                   /** If is not set option in the settings put a text of Opcion no disponible*/
+					if($windsor_catering_options[$option] == null){
+                        /** Save in the Array $choices the value of the option to print in Gravity Forms Field - Dropdown */
+                            $choices[] = array('text' => 'No Disponible', 'value' => $windsor_catering_options[$option]);
+                        } else {
+                        /** Save in the Array $choices the value of the option to print in Gravity Forms Field - Dropdown */
+                        $choices[] = array('text' => $windsor_catering_options[$option], 'value' => $windsor_catering_options[$option]);
+                    }
                 }
                 // update 'Select a Post' to whatever you'd like the instructive option to be
                 $field->placeholder = __('Selecciona una Opcion','windsor-catering');
